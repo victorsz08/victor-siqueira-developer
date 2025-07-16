@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, me chamo Victor Siqueira e sou desenvolvedor Full Stack!</h1>
+<h1>👋 &nbsp;Olá, me chamo Victor Siqueira | Desenvolvedor Full Stack!</h1>
 
 <a href="https://www.linkedin.com/in/victorsz08/"><img src="https://img.shields.io/badge/-Victor%20Siqueira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:victorszdeveloper@gmail.com"><img src="https://img.shields.io/badge/-victorszdeveloper@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
