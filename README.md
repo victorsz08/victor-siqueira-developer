@@ -38,7 +38,7 @@
 
 <h2>📊 &nbsp;Linguagens mais utilizadas no GitHub</h2>
 
-[![Top Linguagens](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorsz08&show_icons=true&theme=radical)
 
 ---
 
