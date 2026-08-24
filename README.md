@@ -38,7 +38,7 @@
 
 <h2>📊 &nbsp;Linguagens mais utilizadas no GitHub</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorsz08&layout=compact&theme=dracula)
+[![Top Linguagens](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats/)
 
 ---
 
